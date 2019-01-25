@@ -1,0 +1,2 @@
+# learn-sensors
+使用micropython和esp32芯片驱动传感器的学习，适合儿童学习python编程
